@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "geoatlas"
+version = "0.1.0"
+description = "Streamlit map of active genocides/atrocity risks from CSV"
+authors = [{ name = "You" }]
+requires-python = ">=3.9,<3.12"
+dependencies = [
+"streamlit==1.39.0",
+"pandas==2.2.2",
+"numpy==1.26.4",
+"pydeck==0.9.1",
+]

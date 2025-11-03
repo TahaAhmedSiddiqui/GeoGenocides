@@ -1,0 +1,3 @@
+id,name,country,region,latitude,longitude,start_date,status,perpetrators,targeted_group,est_deaths,last_verified,sources,summary
+EX-001,Example Case,Exampleland,Example Region,34.0,71.5,2024-01-01,ongoing,Example Security Forces,Example Minority,1200,2025-11-01,https://example.org/report; https://another.org/article,Short placeholder summary describing the situation and citing sources.
+EX-002,Escalating Violence,Samplestan,Asia,35.7,51.3,2025-04-20,escalating,Paramilitary Group X,Group Y,,2025-10-15,https://ngo.example/briefing,Risks increasing; monitor closely.
