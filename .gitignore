@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 prototype/
 pyproject.toml/
+dev/
 
 # Streamlit secrets (never commit tokens)
 .streamlit/secrets.toml
