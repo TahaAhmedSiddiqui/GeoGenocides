@@ -5,6 +5,7 @@ venv/
 __pycache__/
 *.pyc
 prototype/
+pyproject.toml/
 
 # Streamlit secrets (never commit tokens)
 .streamlit/secrets.toml
