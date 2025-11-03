@@ -1,3 +1,4 @@
 id,name,country,region,latitude,longitude,start_date,status,perpetrators,targeted_group,est_deaths,last_verified,sources,summary
-EX-001,Example Case,Exampleland,Example Region,34.0,71.5,2024-01-01,ongoing,Example Security Forces,Example Minority,1200,2025-11-01,https://example.org/report; https://another.org/article,Short placeholder summary describing the situation and citing sources.
-EX-002,Escalating Violence,Samplestan,Asia,35.7,51.3,2025-04-20,escalating,Paramilitary Group X,Group Y,,2025-10-15,https://ngo.example/briefing,Risks increasing; monitor closely.
+EX-001,Example Case,Exampleland,Example Region,34,71.5,01/01/2024,ongoing,Example Security Forces,Example Minority,1200,01/11/2025,https://example.org/report; https://another.org/article,Short placeholder summary describing the situation and citing sources.
+EX-002,Escalating Violence,Samplestan,Asia,35.7,51.3,20/04/2025,escalating,Paramilitary Group X,Group Y,12500,15/10/2025,https://ngo.example/briefing,Risks increasing; monitor closely.
+EX-003,Ceasefire in Place,Palestine,Middle East,31.5,34.5,08/10/2023,ongoing,Israel,Palestinians,70000,03/11/2025,,
