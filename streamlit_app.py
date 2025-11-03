@@ -13,9 +13,9 @@ from src.map_builder import MapBuilder
 from src.view import View
 
 
-st.set_page_config(page_title="Active Genocides – World Map", page_icon="🌍", layout="wide")
-st.title("🌍 Active Genocides – World Map")
-st.caption("This map visualizes cases from your CSV. Hover markers for details; view sources per case below.")
+st.set_page_config(page_title="GeoGenocides", page_icon="🔥", layout="wide")
+st.title("🌍 GeoGenocides – a World Map of Genocides")
+st.caption("This map shows you all active genocides in the world")
 
 
 # Sidebar: data info & sample creation
